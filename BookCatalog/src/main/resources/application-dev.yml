@@ -18,5 +18,4 @@ spring:
 logging:
   level:
     com.rueggerllc.book: debug
-  file:
-    C:\logs\BookRest.log
+  file: C:\logs\BookRest.log
